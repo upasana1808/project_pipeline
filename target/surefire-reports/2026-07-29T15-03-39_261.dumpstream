@@ -1,0 +1,5 @@
+# Created at 2026-07-29T15:03:40.808
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Training\HSBC\HydJava\Spring-jdbc\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
